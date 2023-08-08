@@ -241,8 +241,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("Pema Rinchen.jpg") top center;
-  background-size: fit;
+  background: url("Pema Rinchen.jpg.png") top center;
+  background-size: cover;
 }
 
 #hero:before {
